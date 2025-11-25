@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/samrza/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/samrza/leetcode-submission/tree/master/0941-sort-array-by-parity) |
 | [1603-running-sum-of-1d-array](https://github.com/samrza/leetcode-submission/tree/master/1603-running-sum-of-1d-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/samrza/leetcode-submission/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samrza/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrza/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/samrza/leetcode-submission/tree/master/0941-sort-array-by-parity) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/samrza/leetcode-submission/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Dynamic Programming
 |  |
 | ------- |
