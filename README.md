@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samrza/leetcode-submission/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/samrza/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/samrza/leetcode-submission/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/samrza/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/samrza/leetcode-submission/tree/master/0053-maximum-subarray) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samrza/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samrza/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samrza/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/samrza/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/samrza/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
