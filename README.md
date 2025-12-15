@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/samrza/leetcode-submission/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/samrza/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/samrza/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samrza/leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/samrza/leetcode-submission/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/samrza/leetcode-submission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samrza/leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/samrza/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/samrza/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/samrza/leetcode-submission/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/samrza/leetcode-submission/tree/master/0242-valid-anagram) |
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samrza/leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/samrza/leetcode-submission/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
