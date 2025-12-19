@@ -1,22 +1,19 @@
-import java.util.*;
 class Solution {
     public int countPairs(List<Integer> nums, int target) {
-        Collections.sort(nums); // Sort the list
-        int count = 0;
-        int left = 0;
-        int right = nums.size() - 1;
-
-        while (left < right) {
-            int sum = nums.get(left) + nums.get(right);
-            if (sum < target) {
-                // All elements from left+1 to right will form valid pairs with left
-                count += (right - left);
-                left++;
-            } else {
-                right--;
+        Collections.sort(nums); // sort the vector nums
+        int count = 0; // variable to store the count
+        int left = 0; // variable to store the left
+        int right = nums.size()-1; // variable to store the right
+        while(left < right){ // loop until left is less than right
+            if(nums.get(left) + nums.get(right) < target){ // if nums[left] + nums[right] is less than target
+                count += right-left; // update the count
+                left++; // increment the left
+            }
+            else{ // else
+                right--; // decrement the right
             }
         }
-
-        return count;
+        return count; // return the count
+        
     }
 }
